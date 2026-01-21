@@ -5,6 +5,7 @@
     Console.WriteLine("[2] - Adicionar Notas");
     Console.WriteLine("[3] - Media do Aluno");
     Console.WriteLine("[4] - Status do Aluno");
+    Console.WriteLine("[5] - Qualquer coisa");
 }
 
 static bool ValidarOpcao(string? entrada, out int opcao)
