@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/5qPHdD60Nw=",
+  "dgSpecHash": "3pRVP1UTaZg=",
   "success": true,
-  "projectFilePath": "/home/lucas/Documentos/Repositorio/Sistema-De-Avalia-o-De-Aluno/Sistema-De-Avalia-o-De-Aluno.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/lucas/Documentos/Repositorio/sistema-de-avalicao-de-alunos/Sistema-De-Avalia-o-De-Aluno.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.11/microsoft.netcore.app.host.linux-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
